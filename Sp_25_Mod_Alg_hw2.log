@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  15 FEB 2025 10:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  15 FEB 2025 10:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -299,6 +299,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -317,13 +321,13 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  4218 strings out of 474116
  61544 string characters out of 5743682
- 1927187 words of memory out of 5000000
+ 1931187 words of memory out of 5000000
  26542 multiletter control sequences out of 15000+600000
  563385 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,65p,309b,267s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Sp_25_Mod_Alg_hw2.pdf (1 page, 28840 bytes).
+Output written on Sp_25_Mod_Alg_hw2.pdf (1 page, 32138 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
