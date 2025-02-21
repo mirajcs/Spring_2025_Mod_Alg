@@ -18,7 +18,7 @@ def order_of_element(a, m):
         n += 1
 
         if n > m:  # Failsafe for infinite loops (shouldn't happen in a valid group)
-            return None  h
+            return None  
 
     return n
 
