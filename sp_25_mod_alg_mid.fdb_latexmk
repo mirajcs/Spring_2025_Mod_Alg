@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1741234428.17541 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_mid.tex" "sp_25_mod_alg_mid.pdf" "sp_25_mod_alg_mid" 1741234428.52461 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_mid.tex" 1741234427.95217 1460 d5c15a585a0f59f21c735eaa9ccb13c4 ""
+["pdflatex"] 1741377550.04125 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_mid.tex" "sp_25_mod_alg_mid.pdf" "sp_25_mod_alg_mid" 1741377550.3828 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_mid.tex" 1741377549.83028 1557 e7026b5958bbdaa2242b7ee8f5944109 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -41,8 +41,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_mod_alg_mid.aux" 1741234428.49827 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "sp_25_mod_alg_mid.tex" 1741234427.95217 1460 d5c15a585a0f59f21c735eaa9ccb13c4 ""
+  "sp_25_mod_alg_mid.aux" 1741377550.35602 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "sp_25_mod_alg_mid.tex" 1741377549.83028 1557 e7026b5958bbdaa2242b7ee8f5944109 ""
   (generated)
   "sp_25_mod_alg_mid.aux"
   "sp_25_mod_alg_mid.log"
