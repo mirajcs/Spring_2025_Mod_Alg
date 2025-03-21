@@ -1,0 +1,209 @@
+\documentclass[12pt]{exam}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{minibox}
+\usepackage{multirow}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{datetime}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+
+\pagestyle{headandfoot}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+%\newdateformat{\monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
+
+
+
+
+\newcommand{\paper}[5]{
+    \setcounter{page}{1}
+    
+    \begin{minipage}{\textwidth}
+    \Large{\textbf{Tougaloo College}}\\
+    %\vspace{0.1in}\\  
+   % Bachelor of the Science of Engineering \\
+    %Academic Year #4\\
+    %\vspace{0.1in}\\
+    \textbf{#2}\\
+    \textbf{#5 - #3}\\
+    \end{minipage}
+    \hfill
+   % \begin{minipage}{3in}
+      %  \centering
+      %  \includegraphics[scale=0.23]{logo.jpg}
+    %\end{minipage}\\
+    %\hfill
+   % \vspace{0.1in}\\
+        \begin{minipage}{6in}
+            \textbf{\hspace{0.25in}Duration : #1}
+        \end{minipage}
+    
+    \vspace{0.1in}
+    \rule[1ex]{\textwidth}{2pt}
+    }
+
+
+
+\extrafootheight{.5in}
+\cfoot{Page ~\thepage ~of ~\numpages}
+
+
+\printanswers
+
+
+\marginpointname{ \points}
+\pointsinrightmargin
+\pointpoints{ Point}{ Points}
+\setlength{\rightpointsmargin}{3cm}
+\pointsdroppedatright
+\addpoints
+%\qformat{\textbf{Question \thequestion} \hfill}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+%\paper{duration}{Course}{Semester}{academic year}{Examination}
+\paper{03/21/2025}{MAT414 - Modern Algebra}{Spring, 2025}{}{Howework 04}
+
+\section*{Finite Groups; Subgroups - Exercises}
+\begin{questions}
+
+\question[] (Problem 6) In the group \(\mathbb{Z}_{12}\), find \(|a|\), \(|b|\) and \(|a+b|\) for each case.
+\begin{parts}
+    \part[] \(a=6,b=2\)
+    \\\begin{solution}
+        \(|a|=2,~|b|=6,~|a+b|=3\)
+    \end{solution}
+    \part[] \(a=3~,b=8\)
+    \begin{solution}
+        \(|a|=4,~|b|=3,~|a+b|=12\)
+    \end{solution}
+\end{parts}
+
+\question[] (Problem 7) If \(a,b,\) and \(c\) are group elements and \(|a|=6,~|b|=7\), express \((a^4c^{-2}b^4)^{-1}\) without using negative exponents.
+
+\begin{solution}
+    \(b^3c^2a^2\); Use Socks-Shoes properties. 
+\end{solution}
+
+\question[] (Problem 13) For any group elements \(a\) and \(x\), prove that \(|xax^-1|=|a|\).
+
+\begin{solution}
+    Use method of contradiction.
+\end{solution}
+
+\question[] (Prroblem 14) Prove that if \(a\) is the only element of order 2 in a group, then \(a\) lies in the center of the group. 
+
+\begin{solution}
+    \begin{itemize}
+        \item We can see that any \(g \in G\), if \(|g|=2\) then \(g=a\).
+        \item Then prove \(|xax^-1|=|a|\)
+    \end{itemize}
+\end{solution}
+
+\question[] (Problem 34) If \(H\) and \(K\) are subgroups of a group \(G\), prove that \(H \cap K\) is a subgroup of \(G\).
+
+\begin{solution}
+    Use the one-step subgroup test. 
+    \begin{itemize}
+        \item \(H \cap K\) is non-empty.
+        \item If \(x,y \in H \cap K\), then \(xy^{-1} \in H\) and \(xy^{-1} \in K\).
+    \end{itemize}
+\end{solution}
+
+\vfill
+\droptotalpoints
+\begin{solution}
+    ksjfjsj
+\end{solution}
+\newpage
+
+\question Evaluate the integrals:
+\begin{parts}
+    \part[10] \(\displaystyle
+\int_0^1 (x^e+e^x)~dx
+\)
+\droppoints
+\vspace{2.5in}
+
+\part[10] \(\displaystyle
+    \int_{-2}^1 \dfrac{1}{x^4}~dx
+\) 
+\droppoints
+\vspace{2.5in}
+
+\part[10] \(\displaystyle
+\int 4x^3 e^{x^4}~dx
+\)
+\droppoints
+\vfill
+\newpage
+
+\part[10] \(\displaystyle
+\int_1^2 \dfrac{e^{1/x}}{x^2}~dx
+\)
+\droppoints
+\vspace{2.5in}
+
+\part[10] \(\displaystyle
+\int \sin^3 \theta \cos^4 \theta~d\theta
+\)
+\droppoints
+\vfill
+
+
+
+\end{parts}
+\droptotalpoints
+\newpage
+
+\question[20] Sketch the region enclosed by the given curves, then find the area of the region. \[
+y= \sin x,~ y=x, ~x =\pi/2,~x=\pi.
+\]
+\vfill
+\droptotalpoints
+\newpage
+
+\question[20] Use the washer or cylindrical shell method to find the volume of the solid obtained by rotating the region bounded by the curves $y^2=x$ and $x=2y$ about the $y-$axis. 
+
+\vfill
+\droptotalpoints
+\newpage
+
+\question[10] Find the average value of the following function on the interval \([-1,1]\). 
+\[
+f(x)=\dfrac{x^2}{(x^3+3)^2}
+\] 
+\vfill
+\droptotalpoints
+\newpage
+
+\question[15] Evaluate the following integral using integration by parts.
+\[
+\int t^2 \sin {\beta t}~dt,
+\] where \(\beta \) is a constant. 
+\vfill
+\droptotalpoints
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{questions}
+\end{document}
+
+
