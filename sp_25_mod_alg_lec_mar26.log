@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar24.tex
-(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar24.tex
+**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar26.tex
+(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar26.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls
@@ -601,8 +601,8 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count346
 \l__pdf_internal_box=\box81
-) (./sp_25_mod_alg_lec_mar24.aux)
-\openout1 = `sp_25_mod_alg_lec_mar24.aux'.
+) (./sp_25_mod_alg_lec_mar26.aux)
+\openout1 = `sp_25_mod_alg_lec_mar26.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -677,9 +677,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 13.
- (./sp_25_mod_alg_lec_mar24.out) (./sp_25_mod_alg_lec_mar24.out)
+ (./sp_25_mod_alg_lec_mar26.out) (./sp_25_mod_alg_lec_mar26.out)
 \@outlinefile=\write5
-\openout5 = `sp_25_mod_alg_lec_mar24.out'.
+\openout5 = `sp_25_mod_alg_lec_mar26.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
@@ -742,7 +742,7 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./sp_25_mod_alg_lec_mar24.nav) [1
+) (./sp_25_mod_alg_lec_mar26.nav) [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
@@ -766,37 +766,53 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 
 ] [6
 
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
+
+] [14
+
 ]
 \tf@nav=\write6
-\openout6 = `sp_25_mod_alg_lec_mar24.nav'.
+\openout6 = `sp_25_mod_alg_lec_mar26.nav'.
 
 \tf@toc=\write7
-\openout7 = `sp_25_mod_alg_lec_mar24.toc'.
+\openout7 = `sp_25_mod_alg_lec_mar26.toc'.
 
 \tf@snm=\write8
-\openout8 = `sp_25_mod_alg_lec_mar24.snm'.
+\openout8 = `sp_25_mod_alg_lec_mar26.snm'.
 
- (./sp_25_mod_alg_lec_mar24.aux)
+ (./sp_25_mod_alg_lec_mar26.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `sp_25_mod_alg_lec_mar24.out' has not changed.
+Package rerunfilecheck Info: File `sp_25_mod_alg_lec_mar26.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25258 strings out of 474116
- 511624 string characters out of 5743682
+ 25290 strings out of 474116
+ 511898 string characters out of 5743682
  1937187 words of memory out of 5000000
- 47109 multiletter control sequences out of 15000+600000
+ 47125 multiletter control sequences out of 15000+600000
  570864 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,459b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on sp_25_mod_alg_lec_mar24.pdf (6 pages, 125776 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on sp_25_mod_alg_lec_mar26.pdf (14 pages, 143727 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
- 192 compressed objects within 2 object streams
- 13 named destinations out of 1000 (max. 500000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 392 compressed objects within 4 object streams
+ 29 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
