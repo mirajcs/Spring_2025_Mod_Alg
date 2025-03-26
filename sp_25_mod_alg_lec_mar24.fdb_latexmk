@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1742843237.3124 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar24.tex" "sp_25_mod_alg_lec_mar24.pdf" "sp_25_mod_alg_lec_mar24" 1742843237.9822 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar24.tex" 1742843235.66781 1212 31a23419870c9569748c75f039f671b2 ""
+["pdflatex"] 1742959630.54825 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar24.tex" "sp_25_mod_alg_lec_mar24.pdf" "sp_25_mod_alg_lec_mar24" 1742959631.28621 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_mar24.tex" 1742959630.34675 1215 4309a3d4653dbabede82e9aeacab60e7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -216,10 +216,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_mod_alg_lec_mar24.aux" 1742843237.92966 719 19b1a9eaa2b05f6003a5ed169b038457 "pdflatex"
-  "sp_25_mod_alg_lec_mar24.nav" 1742843237.93029 395 8e2531f3fbfde955e620f161ce7cb0a2 "pdflatex"
-  "sp_25_mod_alg_lec_mar24.out" 1742843237.74852 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_mod_alg_lec_mar24.tex" 1742843235.66781 1212 31a23419870c9569748c75f039f671b2 ""
+  "sp_25_mod_alg_lec_mar24.aux" 1742959631.2276 719 19b1a9eaa2b05f6003a5ed169b038457 "pdflatex"
+  "sp_25_mod_alg_lec_mar24.nav" 1742959631.22801 395 8e2531f3fbfde955e620f161ce7cb0a2 "pdflatex"
+  "sp_25_mod_alg_lec_mar24.out" 1742959631.03976 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_mod_alg_lec_mar24.tex" 1742959630.34675 1215 4309a3d4653dbabede82e9aeacab60e7 ""
   (generated)
   "sp_25_mod_alg_lec_mar24.aux"
   "sp_25_mod_alg_lec_mar24.log"
