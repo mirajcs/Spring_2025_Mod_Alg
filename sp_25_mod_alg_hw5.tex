@@ -13,6 +13,8 @@
 \usepackage{datetime}
 \usepackage{amsmath}
 \usepackage{mathtools}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
 
 
 \pagestyle{headandfoot}
@@ -117,9 +119,37 @@
     \(|G|=49\)
 \end{solution}
 
+\question[] Determine the subgroup lattice for \(Z_{12}\). Generalize to \(Z_{p^2 q}\), where \(p\) and \(q\) are distinct primes. 
+
+\begin{solution}
+    
 
 
+\begin{tikzpicture}[every node/.style={circle, draw, minimum size=1.5em, inner sep=2pt},
+    level distance=1.5cm,
+    sibling distance=3cm]
 
+% Nodes
+\node (top) {\(\langle 1 \rangle = \mathbb{Z}_{p^2 q}\)}
+child { node (p) {\(\langle p \rangle\)}
+child { node (p2) {\(\langle p^2 \rangle\)} }
+child { node (pq) {\(\langle pq \rangle\)} }
+}
+child { node (q) {\(\langle q \rangle\)}
+%child [grow=down] { node [below=0.7cm of q] (pq2) {} }
+};
+
+% Bottom node
+\node (zero) [below=3cm of top] {\(\langle 0 \rangle\)};
+
+% Connections
+\draw (p2) -- (zero);
+\draw (pq) -- (zero);
+\draw (q) -- (pq);
+
+\end{tikzpicture}
+
+\end{solution}
 
 
 \end{questions}
