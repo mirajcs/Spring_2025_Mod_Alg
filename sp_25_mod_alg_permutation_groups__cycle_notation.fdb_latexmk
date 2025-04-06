@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743958448.13166 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_apr04.tex" "sp_25_mod_alg_lec_apr04.pdf" "sp_25_mod_alg_lec_apr04" 1743958448.85295 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_apr04.tex" 1743958447.20552 2211 9985fb7650afe68321394d09285993ed ""
+["pdflatex"] 1743958705.98421 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_permutation_groups__cycle_notation.tex" "sp_25_mod_alg_permutation_groups__cycle_notation.pdf" "sp_25_mod_alg_permutation_groups__cycle_notation" 1743958706.70872 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_permutation_groups__cycle_notation.tex" 1743958705.78241 2212 7101ce41281b87e9de713a6c00e032c8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -210,16 +210,16 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_mod_alg_lec_apr04.aux" 1743958448.79866 1600 100b04c2c80d6a6c7837268029ffefcf "pdflatex"
-  "sp_25_mod_alg_lec_apr04.nav" 1743958448.79937 1023 a68dce85b99c7cd2f0fa8d1d07b44814 "pdflatex"
-  "sp_25_mod_alg_lec_apr04.out" 1743958448.5785 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_mod_alg_lec_apr04.tex" 1743958447.20552 2211 9985fb7650afe68321394d09285993ed ""
+  "sp_25_mod_alg_permutation_groups__cycle_notation.aux" 1743958706.65703 1600 100b04c2c80d6a6c7837268029ffefcf "pdflatex"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.nav" 1743958706.6577 1023 a68dce85b99c7cd2f0fa8d1d07b44814 "pdflatex"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.out" 1743958706.43878 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.tex" 1743958705.78241 2212 7101ce41281b87e9de713a6c00e032c8 ""
   (generated)
-  "sp_25_mod_alg_lec_apr04.aux"
-  "sp_25_mod_alg_lec_apr04.log"
-  "sp_25_mod_alg_lec_apr04.nav"
-  "sp_25_mod_alg_lec_apr04.out"
-  "sp_25_mod_alg_lec_apr04.pdf"
-  "sp_25_mod_alg_lec_apr04.snm"
-  "sp_25_mod_alg_lec_apr04.toc"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.aux"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.log"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.nav"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.out"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.pdf"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.snm"
+  "sp_25_mod_alg_permutation_groups__cycle_notation.toc"
   (rewritten before read)
