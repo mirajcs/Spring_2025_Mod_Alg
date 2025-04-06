@@ -388,6 +388,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathker
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT ./sp_25_mod_alg_permutation_groups__cycle_notation.bbl
+INPUT ./sp_25_mod_alg_permutation_groups__cycle_notation.bbl
+INPUT sp_25_mod_alg_permutation_groups__cycle_notation.bbl
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 OUTPUT sp_25_mod_alg_permutation_groups__cycle_notation.nav
 OUTPUT sp_25_mod_alg_permutation_groups__cycle_notation.toc
 OUTPUT sp_25_mod_alg_permutation_groups__cycle_notation.snm

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743610371.96673 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_apr02.tex" "sp_25_mod_alg_lec_apr02.pdf" "sp_25_mod_alg_lec_apr02" 1743610372.63153 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_apr02.tex" 1743610371.03267 1049 997deeb676e9273864f4bdade661fbe4 ""
+["pdflatex"] 1743963320.51697 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_apr02.tex" "sp_25_mod_alg_lec_apr02.pdf" "sp_25_mod_alg_lec_apr02" 1743963321.20228 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Mod_Alg/sp_25_mod_alg_lec_apr02.tex" 1743963320.31143 1316 d8ea9dfafdfc0bdb86a2cdc5062c70f3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -20,6 +20,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1136768653 1296 d77f431d10d47c8ea2cc18cf45346274 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm" 1136768653 1272 e2d13f0df30bf3ad990bb9d028e37f34 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm" 1136768653 1520 ca2bb4b78ac9800bd686e30c6d19ef95 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm" 1136768653 1500 7f49257eca65a87057f17452e9fe3ef5 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
@@ -213,10 +214,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_mod_alg_lec_apr02.aux" 1743610372.57885 1215 608cbd9fa8042154f2e9eede5083e747 "pdflatex"
-  "sp_25_mod_alg_lec_apr02.nav" 1743610372.5793 747 d68018f780d5458c376ea97e344926e2 "pdflatex"
-  "sp_25_mod_alg_lec_apr02.out" 1743610372.40783 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_mod_alg_lec_apr02.tex" 1743610371.03267 1049 997deeb676e9273864f4bdade661fbe4 ""
+  "sp_25_mod_alg_lec_apr02.aux" 1743963321.15004 1423 f8653a1283651bfc8e6e81f3abf8735f "pdflatex"
+  "sp_25_mod_alg_lec_apr02.nav" 1743963321.15069 835 6128630a7da1588348cf01659913636f "pdflatex"
+  "sp_25_mod_alg_lec_apr02.out" 1743963320.96584 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_mod_alg_lec_apr02.tex" 1743963320.31143 1316 d8ea9dfafdfc0bdb86a2cdc5062c70f3 ""
   (generated)
   "sp_25_mod_alg_lec_apr02.aux"
   "sp_25_mod_alg_lec_apr02.log"

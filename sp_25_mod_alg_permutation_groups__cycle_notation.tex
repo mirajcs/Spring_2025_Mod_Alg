@@ -6,7 +6,7 @@
 \usepackage{graphicx}
 
 \title{MAT414 - Modern Algebra - Permutation Groups}
-\subtitle{Cycle Notation}
+\subtitle{Cycle Notation \cite{JAG2017}}
 \author{\textbf{Miraj Samarakkody}}
 \institute{Tougaloo College}
 \date{Updated - \today}
@@ -96,12 +96,47 @@
 \begin{frame}
     \frametitle{Theorem 5.4}
     \begin{block}{Product of 2-Cycles}
-                
+          Every permutation of in \(S_n\), \(n>1\), is a product of \(2-\)cycles.   
     \end{block}
 
     
 
 \end{frame}
 
+\begin{frame}
+    \frametitle{Example }
+
+    \begin{align*}
+        (1~2~3~4~5)=\\
+        (1~6~3~2)(4~5~7)=
+    \end{align*}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{}
+\begin{block}{Lemma}
+    In \(S_n\), if \(\epsilon = \beta_1\beta_2 \beta_3 \dots \beta_r\), where the \(\beta_i\)'s are 2-cycles, then \(r\) is even. 
+\end{block}
+    
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Theorem 5.5}
+
+    \begin{block}{Always Even or Always Odd}
+        If a permutation \(\alpha\) can be expressed as a product of an even (odd) number of 2-cycles, then every decomposition of \(\alpha\) into a product of \(2-\)cycles must have an an even (odd) number of \(2-\)cycles. \\
+        \vspace{0.2in}
+        In symbols, if \[\alpha = \beta_1 \beta_2 \dots \beta_r \text{ and } \alpha = \gamma_1 \gamma_2 \dots \gamma_s,\] where the \(\beta\)'s and \(\gamma\)'s are \(2-\)cycles, then \(r\) and \(s\) are both even or both odd.
+    \end{block}
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{References}
+    \bibliographystyle{plain} % or another style like unsrt, alpha, etc.
+    \bibliography{reference}  % omit the .bib extension
+\end{frame}
 
 \end{document}
